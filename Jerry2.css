@@ -1,0 +1,50 @@
+body {
+	margin:  0;
+
+}
+header {
+	background:  #999;
+	color:  white;
+	margin:  0;
+	font-size: 20;
+}
+
+header h1 {
+	margin:  0;
+	padding:  10px 15px 50px 850px;
+}
+
+nav ul {
+	margin:  0;
+	padding:  0px 0px 0px 680px;
+}
+
+nav ul li {
+	display:  inline-block;
+	list-style-type: none;
+	background:  black;
+	color:  white;
+
+}
+
+nav ul li a {
+	color: white;
+	margin:  20px;
+	padding: 0px 10px 0px 10px;
+
+}
+
+
+.row:after {
+	clear:  both;
+}
+
+.col {
+	background:  #8C8484;
+	border-radius: 10px;
+	color:  darkslategray;
+	float:  left;
+	margin: 0.16666%;
+	width:  33%;
+}
+
